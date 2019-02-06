@@ -1,0 +1,5 @@
+ 0  9-21/1   *  *  *  /home/oracle/scripts/logs_clear.sh /opt/oracle/Middleware12/user_projects/domains/registrp1/log registrator-soap
+ 0  9-21/1   *  *  *  /home/oracle/scripts/logs_clear.sh /opt/oracle/Middleware12/user_projects/domains/registrp1/servers/registrp1_01/logs/archive notifier
+
+0  9-21/1   *  *  *  /home/oracle/scripts/logs_clear.sh /opt/oracle/Middleware/user_projects/domains/recorderp2/log registrator-soap
+0  9-21/1   *  *  *  /home/oracle/scripts/logs_clear.sh /opt/oracle/Middleware/user_projects/domains/recorderp2/servers/recorderp2_01/logs/archive notifier
